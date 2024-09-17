@@ -8,6 +8,7 @@ This repository contains several C programs designed to manipulate strings and s
 2. **reverse_by_word** - Reverses each word in a string while maintaining whitespace.
 3. **remove_last_substr** - Removes the last occurrence of a specified substring from a string.
 4. **strip_chars** - Removes all occurrences of specified characters from a string.
+5. **is_prefix** - Checks if a string begins with the sequence of chars in a prefix
 
 Each utility is accompanied by its own unit test to ensure functionality.
 
