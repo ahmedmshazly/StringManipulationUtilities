@@ -65,7 +65,7 @@ Author: AHMED MOHAMED (ahmdmshazly@cmu.edu)
 Date Created: September 14, 2024
 Last Modified: September 17, 2024
 
-For any additional questions or feedback, please contact (email)[mailto:ahmdmshazly@cmu.edu].
+For any additional questions or feedback, please contact [email](mailto:ahmdmshazly@cmu.edu).
 
 
 
