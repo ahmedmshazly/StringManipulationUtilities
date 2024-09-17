@@ -57,13 +57,17 @@ Each program has a corresponding unit test function that is called when you run 
 ## Contributions
 Feel free to fork this repository and submit pull requests with improvements or corrections to the utilities. Please make sure all changes are accompanied by corresponding unit tests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Contact
-Author: AHMED MOHAMED (ahmdmshazly@cmu.edu)
-Date Created: September 14, 2024
-Last Modified: September 17, 2024
+## Contact
+- **Author**: AHMED MOHAMED (ahmdmshazly@cmu.edu)
+
+
+- **Date Created**: September 14, 2024
+
+- **Last Modified**: September 17, 2024
+
 
 For any additional questions or feedback, please contact [email](mailto:ahmdmshazly@cmu.edu).
 
